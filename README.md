@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## Contact
+email: hahapjm1234@gmail.com
+
 <!--
 **xjmx315/xjmx315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
