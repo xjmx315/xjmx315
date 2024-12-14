@@ -3,6 +3,12 @@
 ## Contact
 email: hahapjm1234@gmail.com
 
+## Extracurricular Activities
+
+
+2024.09 ~ 
+#### GDGoC INU
+-Backend team member
 <!--
 **xjmx315/xjmx315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
